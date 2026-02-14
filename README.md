@@ -18,7 +18,7 @@ A comprehensive collection of ComfyUI custom nodes that replicate the functional
 1. Clone this repository into your ComfyUI custom nodes directory:
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/sumitchatterjee13/nuke-nodes-comfyui.git nuke-nodes
+git clone <github rep>
 ```
 
 2. Install the required dependencies:
