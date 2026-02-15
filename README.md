@@ -1,7 +1,7 @@
 # Nuke Nodes for ComfyUI
 
 A comprehensive collection of ComfyUI custom nodes that replicate the functionality of popular Nuke compositing nodes. This package brings professional compositing workflows to ComfyUI with nodes for merging, color grading, transformations, and blur effects.
-
+![Nuke_Node](https://raw.githubusercontent.com/chaithanyakasi27/ComfyUI-nuke-node/refs/heads/main/screenshots/Nuke_nodes.jpg)
 ## Features
 
 - **Read/Write Nodes**: Load and save images with full sequence support via OpenImageIO
